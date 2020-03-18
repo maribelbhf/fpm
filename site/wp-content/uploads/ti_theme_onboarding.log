@@ -1,0 +1,18 @@
+[17/Mar/2020:02:15:07] (ℹ️): WordPress Instance Info:
+[17/Mar/2020:02:15:07] (ℹ️): Home URL : http://fpmentertainment.local
+[17/Mar/2020:02:15:07] (ℹ️): Site URL : http://fpmentertainment.local
+[17/Mar/2020:02:15:07] (ℹ️): WordPress Version : 5.1.4
+[17/Mar/2020:02:15:07] (ℹ️): Onboarding Version : 1.8.2
+[17/Mar/2020:02:15:07] (ℹ️): Multisite : No
+[17/Mar/2020:02:15:07] (ℹ️): Server Info : nginx/1.14.0
+[17/Mar/2020:02:15:07] (ℹ️): PHP Version : 7.2.9
+[17/Mar/2020:02:15:07] (ℹ️): HTTPS : No
+[17/Mar/2020:02:15:07] (ℹ️): PHP Max Execution Time : 1200
+[17/Mar/2020:02:15:07] (ℹ️): PHP Max Input Vars : 4000
+[17/Mar/2020:02:15:07] (ℹ️): Max Upload Size : 314572800
+[17/Mar/2020:02:15:07] (ℹ️): Plugins:
+[17/Mar/2020:02:15:07] (ℹ️): [PLUGIN] Elementor : v2.9.2 (Elementor.com)
+[17/Mar/2020:02:15:07] (ℹ️): [PLUGIN] GigPress : v2.3.23 (Modern Tribe, Inc.)
+[17/Mar/2020:02:15:07] (ℹ️): [PLUGIN] Post Carousel : v2.1.12 (ShapedPlugin)
+[17/Mar/2020:02:15:07] (ℹ️): [PLUGIN] Post/Page specific custom CSS : v0.2.0 (Łukasz Nowicki)
+[17/Mar/2020:02:15:07] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.2 (Themeisle)

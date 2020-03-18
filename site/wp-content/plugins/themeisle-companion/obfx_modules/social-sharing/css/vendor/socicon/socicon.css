@@ -1,0 +1,41 @@
+@font-face {
+	font-family: "Socicon";
+	src: url("fonts/Socicon.eot?xvgs9q");
+	src: url("fonts/Socicon.eot?xvgs9q#iefix") format("embedded-opentype"), url("fonts/Socicon.woff2?xvgs9q") format("woff2"), url("fonts/Socicon.ttf?xvgs9q") format("truetype"), url("fonts/Socicon.woff?xvgs9q") format("woff"), url("fonts/Socicon.svg?xvgs9q#Socicon") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="socicon-"],
+[class*=" socicon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: "Socicon" !important;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	line-height: 1;
+	text-transform: none;
+
+	speak: none;
+}
+
+.socicon-instagram:before {
+	content: url(../socicon/icons/instagram.png);
+	
+}
+.socicon-youtube:before {
+	content: url(../socicon/icons/youtube.png);
+}
+.socicon-facebook:before {
+	content: url(../socicon/icons/facebook.png);
+}
+.socicon-twitter:before {
+	content: url(../socicon/icons/twitter.png);
+}
+.socicon-spotify:before {
+	content: url(../socicon/icons/spotify.png);
+}
+
