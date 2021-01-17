@@ -1,3 +1,2 @@
 # FPM WEBSITE
-
-## Check out the [live site] (www.fpment.com)
+Check out the [live site] (www.fpment.com)
